@@ -1,9 +1,22 @@
 ---
-layout: default
+layout: page
 title: Anypoint Studio
 nav_order: 2
-description: "These are my notes on mulesoft anypoint stuff."
-permalink: docs/mulesoft/anypoint-studio
+parent: Mulesoft
 ---
 
 # Anypoint Studio
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+---
+
+## Components
+## Scopes
+
