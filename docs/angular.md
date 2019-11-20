@@ -1,9 +1,10 @@
 ---
 title: Angular
 has_children: false
-nav_order: 4
+nav_order: 2
 ---
 
 # Angular
 
-I am a child page.
+This is a test for an angular notes page.
+
