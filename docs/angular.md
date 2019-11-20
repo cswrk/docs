@@ -1,8 +1,9 @@
 ---
 title: Angular
-permalink: docs/angular
+has_children: false
+nav_order: 4
 ---
 
 # Angular
 
-This is a test
+I am a child page.
