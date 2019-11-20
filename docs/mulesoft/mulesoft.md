@@ -1,3 +1,11 @@
+---
+layout: default
+title: Mulesoft
+nav_order: 1
+description: "These are my notes on mulesoft stuff."
+permalink: /mulesoft
+---
+
 # Mulesoft
 
 ## ESB (Enterprise Service Bus)
