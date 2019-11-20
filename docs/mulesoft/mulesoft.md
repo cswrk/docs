@@ -1,10 +1,16 @@
 ---
 layout: default
 title: Mulesoft
-nav_order: 1
-permalink: docs/mulesoft
+nav_order: 4
+has_children: true
+permalink: docs/utilities
 ---
+
 # Mulesoft
+{: .no_toc }
+
+CSS utility classes come in handy when you to want to override default styles to create additional whitespace (margins/padding), correct unexpected shifts in font size or weight, add color, or hide (or show) something at a specific screen size.
+{: .fs-6 .fw-300 }
 
 ## ESB (Enterprise Service Bus)
 An ESB is a mediating layer connecting independent pieces of software. These apps often use different protocols. Consequently, the ESB will take care of transforming and routing the data. This allows for the creation of decoupled services. Therefore, each service does not need to worry about how another service will consume its output.
