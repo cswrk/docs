@@ -1,6 +1,7 @@
 ---
 title: Angular
-nav_order: 6
 ---
 
 # Angular
+
+This is a test
