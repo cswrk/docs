@@ -1,15 +1,10 @@
+#title: "My Docs"
 remote_theme: pmarsceill/just-the-docs
-permalink: pretty
-#title: My Docs
+color_scheme: "dark"
 
 # Set a path/url to a logo that will be displayed instead of the title
 logo: "/assets/images/avatar.png"
 
 # Enable or disable the site search
 search_enabled: true
-
-# the base hostname & protocol for your site, e.g. http://example.com
-url: "https://cesaldan.github.io" 
-
-baseurl: "/"
 
