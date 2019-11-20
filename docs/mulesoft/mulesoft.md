@@ -4,7 +4,6 @@ title: Mulesoft
 nav_order: 1
 permalink: docs/mulesoft
 ---
-
 # Mulesoft
 
 ## ESB (Enterprise Service Bus)
@@ -37,9 +36,8 @@ Show payload as string:: `#[message.payloadAs(java.lang.String)]`
   level="INFO"
 />
 ```
-[horizontal]
+
 message:: Mel expression.
 level:: INFO, DEBUG, WARN, etc.
 doc:name:: Nombre que se va a mostrar en el flow.
 
-## Dataweave 1.0
