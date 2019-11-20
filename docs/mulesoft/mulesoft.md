@@ -3,7 +3,7 @@ layout: default
 title: Mulesoft
 nav_order: 4
 has_children: true
-permalink: docs/utilities
+permalink: docs/mulesoft
 ---
 
 # Mulesoft
