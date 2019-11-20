@@ -1,1 +1,12 @@
 remote_theme: pmarsceill/just-the-docs
+permalink: pretty
+title: Just the Docs
+
+# Enable or disable the site search
+search_enabled: true
+
+# the base hostname & protocol for your site, e.g. http://example.com
+url: "https://cesaldan.github.io" 
+
+baseurl: ""
+
