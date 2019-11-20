@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Mulesoft
-nav_order: 1
+nav_order: 2
 has_children: true
-permalink: docs/mulesoft
+permalink: /docs/mulesoft
 ---
 
 # Mulesoft
@@ -41,8 +41,4 @@ Show payload as string:: `#[message.payloadAs(java.lang.String)]`
   level="INFO"
 />
 ```
-
-message:: Mel expression.
-level:: INFO, DEBUG, WARN, etc.
-doc:name:: Nombre que se va a mostrar en el flow.
 
