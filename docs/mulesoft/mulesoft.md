@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: page
 title: Mulesoft
 nav_order: 1
 description: "These are my notes on mulesoft stuff."
-permalink: /mulesoft
+permalink: docs/mulesoft
 ---
 
 # Mulesoft
