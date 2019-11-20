@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: default
 title: Anypoint Studio
-nav_order: 2
 parent: Mulesoft
+nav_order: 2
 ---
 
 # Anypoint Studio
@@ -16,7 +16,6 @@ parent: Mulesoft
 
 ---
 ---
-
 ## Components
 ## Scopes
 

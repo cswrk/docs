@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: default
 title: Mulesoft
 nav_order: 1
-description: "These are my notes on mulesoft stuff."
 permalink: docs/mulesoft
 ---
 
