@@ -1,5 +1,6 @@
 ---
 title: Angular
+permalink: docs/angular
 ---
 
 # Angular
