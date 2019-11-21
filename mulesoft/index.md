@@ -14,5 +14,5 @@ An ESB is a mediating layer connecting independent pieces of software. These app
 ## Anypoint Platform
 
 #### Source
-[1]: https://docs.mulesoft.com/general/
+https://docs.mulesoft.com/general/
 
