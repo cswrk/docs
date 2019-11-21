@@ -1,6 +1,7 @@
 # title: "CS Notes"
 # Set a path/url to a logo that will be displayed instead of the title
-logo: "/_assets/images/avatar.png"
+logo: "_assets/images/avatar.png"
 remote_theme: pmarsceill/just-the-docs
+# Color scheme currently only supports "dark" or nil (default)
 color_scheme: nil
 search_enabled: true
