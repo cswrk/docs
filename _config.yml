@@ -3,5 +3,5 @@
 logo: "_assets/images/avatar.png"
 remote_theme: pmarsceill/just-the-docs
 # Color scheme currently only supports "dark" or nil (default)
-color_scheme: nil
+color_scheme: light
 search_enabled: true
