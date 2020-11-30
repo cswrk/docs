@@ -6,6 +6,19 @@ nav_order: 1
 ---
 
 # Routing & Navigation
+## Pass param in the url and hide it when page loaded
+_origin.component.ts_
+```TypeScript 
+ this.router.navigate(['/contact-form/thankYou'], { queryParams: { id: id } });
+```
+_destination.component.ts_
+```TypeScript
+if (this.location.path().includes('?')) {
+  this.location.go(this.location.path().substring(0, this.location.path().indexOf('?')));
+}
+```
+
+
 ## Showing spinner until page fully loaded
 _app.component.ts_
 ``` javascript
