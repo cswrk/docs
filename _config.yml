@@ -4,4 +4,4 @@ logo: "_assets/images/avatar.png"
 # Color scheme currently only supports "dark" or nil (default)
 color_scheme: light
 search_enabled: true
-remote_theme: rundocs/jekyll-rtd-theme
+remote_theme: cswrk/just-the-docs
