@@ -1,7 +1,7 @@
-# title: "CS Notes"
+title: "CS Notes"
 # Set a path/url to a logo that will be displayed instead of the title
-logo: "_assets/images/avatar.png"
+#logo: "_assets/images/avatar.png"
 # Color scheme currently only supports "dark" or nil (default)
-color_scheme: light
+color_scheme: dark
 search_enabled: true
 remote_theme: cswrk/just-the-docs
