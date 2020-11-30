@@ -3,6 +3,7 @@ title: Routing & Navigation
 parent: Angular
 has_children: true
 nav_order: 1
+has_toc: false
 ---
 
 # Routing & Navigation
