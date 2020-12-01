@@ -19,6 +19,16 @@ if (this.location.path().includes('?')) {
 }
 ```
 
+## Remove query params
+```javascript 
+this.router.navigate([], {
+  queryParams: {
+    'yourParamName': null,
+    'youCanRemoveMultiple': null,
+  },
+  queryParamsHandling: 'merge'
+};
+```
 
 ## Showing spinner until page fully loaded
 _app.component.ts_
